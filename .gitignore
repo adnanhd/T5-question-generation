@@ -1,0 +1,5 @@
+cache_dir/*
+data/*
+outputs/*
+wandb/*
+wget-log

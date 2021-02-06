@@ -1,0 +1,224 @@
+("Nature's boost for fine hair, our style-prep infuses all-day weightless "
+ 'volume that feels naturally yours.')
+["ask_question: Nature's boost for fine hair, our style-prep infuses all-day "
+ 'weightless volume that feels naturally yours.',
+ 'QUESTION: Nature Boost For fine hair, our style-prep infuses all-day '
+ 'weightless volume that feels naturally yours.',
+ 'As always, we are inspired to give you the reassurance of a quality-friendly '
+ 'and sleek look.']
+
+'nan'
+['a ask_question: nan', 'Ask_question: nan', 'ask_question: nan']
+
+('Increases the content of collagen in the skin and provides a strong lifting '
+ 'effect, improves elasticity, smooths wrinkles and intensely moisturizes, '
+ 'slows the aging process and improves blood circulation. As a result, the '
+ 'skin looks rejuvenated and full with vital energy. Biological gold creates '
+ "the conduction effect and improves skin's ability to absorb active herbal "
+ 'ingredients, ensures long-term moisturizing effect, helps to regenerate skin '
+ "cells, protects the skin from wrinkle's formation and slows the aging "
+ 'process. It is recommended to apply cosmetics based on bio-gold for those '
+ 'who are 35 years old or older.')
+['results in a wrinkle loss which makes the skin look less reactive and full '
+ 'with vital energy. Biological gold creates conduction and helps to absorb '
+ 'active herbal ingredients. Biological gold creates conduction effect, '
+ 'enhances skin',
+ 'that a boost is needed to regenerate skin cells, promote long-term '
+ 'moisturizing effect.',
+ 's the collagen content in the skin and delivers a strong lifting effect, '
+ 'improves elasticity, smooths wrinkles and intensely moisturizes, slows the '
+ 'aging process and improves blood circulation. There is no need for the']
+
+('Increases the content of collagen in the skin and provides a strong lifting '
+ 'effect, improves elasticity, smooths wrinkles and intensely moisturizes, '
+ 'slows the aging process and improves blood circulation. As a result, the '
+ 'skin looks rejuvenated and full with vital energy. Biological gold creates '
+ "the conduction effect and improves skin's ability to absorb active herbal "
+ 'ingredients, ensures long-term moisturizing effect, helps to regenerate skin '
+ "cells, protects the skin from wrinkle's formation and slows the aging "
+ 'process. It is recommended to apply cosmetics based on bio-gold for those '
+ 'who are 35 years old or older.')
+[', as: Increases the content of collagen in the skin and provides a strong '
+ 'lifting effect, improves elasticity, smooths wrinkles and intensely '
+ 'moisturizes, slows the aging process. It is recommended to',
+ 'results in radiant skin with vital energy, hydrate and revitalize and '
+ 'restore cells. Ask_question: Increases collagen content in the skin and '
+ 'provides a strong lifting effect, improves elasticity, smooths wrinkles and '
+ 'intense',
+ 'improves the aging process and slows the aging process. it is recommended to '
+ "apply a product labeled 'organic gold' (not known), however the label has a "
+ 'long history of a decade.']
+
+'The Turbo Power Diffuser is the perfect addition to any hair dryer!'
+['ift 0 - The Turbo Power Diffuser is the perfect addition to any hair dryer!',
+ 'ask_question: The Turbo Power Diffuser is the perfect addition to any hair '
+ 'dryer!',
+ 'ask_question: Der Turbo Power Diffuser ist für Ihrer Handy so geeignet!']
+
+("', '<strong>GiGi Mini Pro Hair Removal Waxing Kit</strong> is the ideal "
+ 'starter kit for the beginners in hair waxing or the price conscious '
+ 'professional. This kit contains all the necessary waxing essentials for a '
+ 'complete professional service. When you are ready to expand your salon menu '
+ 'to include profitable waxing services, <strong>GiGi Mini Pro Hair Removal '
+ "Waxing Kit</strong> is the perfect choice.', '<strong>GiGi Mini Pro Hair "
+ 'Removal Waxing Kit includes:</strong>')
+[". Ask_question:','strong>GiGi Mini Pro Hair Removal Waxing Kit/strong> is "
+ 'the ideal starter kit for beginners in hair waxing or the price conscious '
+ 'professional. This kit',
+ ",'strong>GiGi Mini Pro Hair Removal Waxing Kit/strong> is the ideal starter "
+ 'kit for the beginner in hair waxing or the price conscious professional. '
+ "','strong>",
+ ": ','strong>GiGi Mini Pro Hair Removal Waxing Kit/strong> is the ideal "
+ 'starter kit for the beginners in hair waxing or the price conscious '
+ 'professional. This kit contains all the']
+
+'nan'
+['nan', 'ask_question: nan', 'nan']
+
+'nan'
+['ask_question: nan', 'ask_question: nan', 'ask_question: nan']
+
+('Over 1 million bottles sold in more than 35 countries, Poppy Austin 100% '
+ 'Pure Organic Argan Oil is one of the most talked about and sought-after '
+ 'brands in the USA. An exquisite, luxurious and triple purified Moroccan '
+ 'argan oil. Made by hand, cold pressed and responsibly sourced using the only '
+ 'the very finest yet sustainable organic argan nuts. See immediate results '
+ 'from this extremely lightweight, delicate, and quick to absorb natural oil. '
+ 'Free from parabens, fillers, artificial colors and fragrances. Creates '
+ 'naturally soft, luminous and manageable hair with one application - Hydrates '
+ 'frizzy and problematic hair, making it easier to style and manage - '
+ 'Nourishes, restores, and strengthens over-processed, damaged, and brittle '
+ 'hair - 100% organic moisturiser for all skin types, including dry, rough and '
+ 'sensitive skin - Packed with skin-loving Vitamin E, essential fatty acids '
+ 'and natural antioxidants - Can be used to tackle problem areas such as '
+ 'psoriasis, eczema and stretch marks. Batch: December 2018, A Poppy Austin '
+ 'original product. Dispatched and sent directly by Amazon from a local Amazon '
+ 'warehouse.')
+['. All ingredients are organic, organic and pure, unlike real oils - no '
+ 'parabens, fillers, artificial colors, fragrances - not parabens, fillers, '
+ "artificial colors and fragrances. I'",
+ 'and formulated with the finest yet sustainable organic nuts. The perfect '
+ "blend of natural, mineral and natural argan oil is unique - it's one of the "
+ 'most widely used and sought-after brands in the world.',
+ '. This 100% Pure Organic Argan Oil is one of the most talked about and '
+ 'sought-after brands in the USA. The perfect argan oil for hair and hair has '
+ 'an excellent oil base - no parabens, fillers']
+
+('Intense Defense with Vitamin C Renewal CreamThis product replaces Vitamin C '
+ 'Renewal Cream. The antioxidant-intensive formula in the bottle remains '
+ 'unchanged. The antioxidant-intensive formula in the jar remains '
+ 'unchanged.RENEWAL CREAM is a rich, emollient moisturizer that encourages '
+ "collagen and elastin production to strengthen skin's underlying support "
+ 'structure so the surface feels soft and resilient and signs of aging '
+ 'fade.StandardsCertified by QAI to NSF/ANSI 305, the American National '
+ 'Standard for personal care products containing organic ingredientsContains '
+ '70% organic content100% vegetarian ingredients<br>Directions Applying to '
+ 'freshly cleansed face and neck completes an antioxidant-intensive regimen. '
+ 'Maximize results by using at night while skin undergoes its natural renewal '
+ 'cycle. Intense Defense Sheer Moisture SPF 10 is recommended if sun exposure '
+ 'is expected.<br>Other Ingredients: Aloe Barbadensis Leaf Juice(1), Aqua '
+ '(Water), Caprylic/Capric Triglyceride, Helianthus Annuus (Sunflower) Seed '
+ 'Oil(1), Glycerin, Glyceryl Stearate, Myristyl Myristate, Glyceryl Stearate '
+ 'Citrate, Cetyl Alcohol, Stearyl Alcohol, Butyrospermum Parkii (Shea) '
+ 'Butter(1), Borago Officinalis Seed Oil(1), Linum Usitatissimum (Linseed) '
+ 'Seed Oil(1), Prunus Amygdalus Dulcis (Sweet Almond) Oil(1), Rosa Canina '
+ 'Fruit Oil(1), Arnica Montana Flower Extract(1), Calendula Officinalis Flower '
+ 'Extract(1), Camellia Sinensis Leaf Extract (White Tea)(1), Chamomilla '
+ 'Recutita (Matricaria) Flower Extract(1), Citrus Limon (Lemon) Peel Extract '
+ '(Lemon Bioflavonoids), Lavandula Angustifolia (Lavender) Flower/Leaf/Stem '
+ 'Extract(1), Olea Europaea (Olive) Leaf Extract(1), '
+ 'Saccharomyces/Xylinum/Black Tea Ferment(1), Citrus Aurantium Bergamia '
+ '(Bergamot) Fruit Oil, Citrus Aurantium Dulcis (Orange) Peel Oil, Citrus '
+ 'Limon (Lemon) Peel Oil, Ascorbic Acid, Polyglyceryl-6 Distearate, Squalane, '
+ 'Tocopheryl Acetate, Xanthan Gum, Alcohol(1), Glyceryl Ca')
+['of the American National Standard NSF 305, the American National Standard '
+ '305, the American National Standard, is a rich, emollient moisturizer that '
+ "encourages collagen production to strengthen skin's ",
+ ',, the American Standard: standard for natural beauty products and '
+ 'productsCertified in this article question: Intense Defense with Vitamin C '
+ 'Renewal CreamThis product replaces Vitamin C Renewal Cream.',
+ 'the vitamin C Renewal Cream. The antioxidant-intensive formula in the bottle '
+ 'remains unchanged. The antioxidant-intensive formula in the jar remains '
+ 'unchanged. The antioxidant-intensive formula in the jar remains unchanged.']
+
+'Water-Rosewater Heritage Store 8 oz Liquid'
+['Ask_question: Water-Rosewater Heritage Store 8 oz Liquid',
+ 'Water-Rosewater Heritage Store 8,2oz Liquid',
+ '']
+
+('Color:Gold<br>Big eyes and long eyelashes are important parts in a beautiful '
+ 'look. Many girls have to apply thick mascara or stick false eyelashes for '
+ 'longer eyelashes, do you have the same trouble as them?<br>-False eyelashes: '
+ 'glues are harmful to the eyelids and may cause pore necrosis.<br>-Mascara: '
+ 'remover is difficult and may make eyelashes / eyebrows fragile and easier to '
+ 'break.<br>-Eyelashes extension / tattoo eyebrows: high cost and may do harm '
+ 'to the original eyelashes / eyebrows.<br><br>Now, stop hurting your '
+ 'eyelashes / eyebrows. Let the Fiery Youth eyelash growth serum give you 100% '
+ 'REAL and HEALTHY eyelashes.<br><br>FUNCTIONS<br>-Protect eyelashes: Prevent '
+ 'damage caused by the external environment, strong eyelashes / eyebrow roots '
+ 'to prevent shedding.<br>-Deeply energize hair follicles: Repair hair '
+ 'follicles caused by sticky false eyelashes, grafted eyelashes and '
+ 'tattoos.<br>-Consolidate the skin base: Soften and purify the base skin '
+ 'around the eyelashes/eyebrows and improve the eyelash base '
+ 'environment.<br>-Nourishing and moisturizing:Provide sufficient nourishment '
+ 'for eyelashes/eyebrows to accelerate the growth of '
+ 'eyelashes/eyebrows.<br>-Gentle and non-irritating: Contain a variety of '
+ 'natural plant extracts, mild, safe, non- '
+ 'irritating.<br><br>INSTRUCTIONS<br>Apply it 1-2 times a day. After cleansing '
+ 'your face, apply the eyelash growth liquid evenly to the base of upper and '
+ 'lower eyelashes, or the eyebrows.<br><br>GREAT RESULTS <br>After using it '
+ 'regularly, users will notice a 20% increase in the thickness and length of '
+ 'eyelashes after 4-6 weeks, and a 50% increase after 60 '
+ 'days.<br><br>GUARANTEE<br>A small portion of users may not respond to the '
+ 'formula. If you are not satisfied after using this product uninterruptedly '
+ 'for 60 days as recommended, feel free to contact us for 100% REFUND. There '
+ "is literally no risk for you, so don't hesitate to try our eyelash serum.")
+['kles are harmful to the eyelids and may cause pore necrosis.br>-Ballazara: '
+ 'remover is difficult and may make eyelashes / eyebrows fragile and easier to '
+ 'break ',
+ 'the same problems for long eyelashes, do you have the same trouble as '
+ 'them?br>-False eyelashes: glues are harmful to the eyelids and may cause '
+ 'pore necrosis.',
+ 'dreat / eyebrow removed is difficult and may make eyelashes fragile and '
+ 'easier to break.br>-Lynically visible eyebrows: hair and hair can be dull, '
+ 'fragile and tough, more fragile.']
+
+("A classic since 1935, Jean Nate's silkening body powder will leave you feel "
+ 'silky smooth and soft throughout the day.')
+["ask_question: A classic from 1935, Jean Nate's silkening body powder will "
+ 'make you feel silky smooth and soft throughout the day.',
+ 'Ask_question: Semilening body powder, a classic from 1935, makes it easy to '
+ 'feel silky smooth and soft while the body feels silky smooth and soft during '
+ 'the day.',
+ "Fragen, question: Faye-chef: A classic for silkening, Jean Nate's body "
+ 'powder will leave you feel silky smooth and soft throughout the day.']
+
+'nan'
+['y', 'ask_question: nan', 'ask_question: nan']
+
+('Zippered carry case includes: 2 packs of purple (7/8"), 2 packs of grey ( '
+ '3/4"), 2 packs of orange ( 5/8"), 1 pack of blue ( 1/2"), 1 pack of red ( '
+ '7/16"), 1 pack of yellow ( 3/8"), 1 pack of green ( 1/4").')
+['Ask_question: Zippered carry case includes: 2 packs of purple (7/8"), 2 '
+ 'packs of grey ( 3/4"), 2 packs of orange ( 5/8"), 1 pack of blue ( 1/2"), 1 '
+ 'pack of red (',
+ 'ask_question: Zippered carry case includes: 2 packs of purple (7/8"), 2 '
+ 'packs of grey ( 3/4"), 2 packs of orange ( 5/8"), 1 pack of blue ( 1/2"), 1 '
+ 'pack of red (',
+ 'ask_question: Zippered carry case includes: 2 packs of purple (7/8"), 2 '
+ 'packs of grey ( 3/4"), 2 packs of orange ( 5/8"), 1 pack of blue ( 1/2"), 1 '
+ 'pack of red (']
+
+'Helen of Troy 1514 Brush Iron, White, 1 1/2 Inches Barrel'
+['ask_question: Helen of Troy 1514 Gi',
+ 'ask_question: Helen de Troy 1514 Brush Iron, White, 1 1/2 Inches Barrel',
+ 'ask_question: Helen of Troy 1514 Minssr (el)']
+
+("A classic since 1935, Jean Nate's silkening body powder will leave you feel "
+ 'silky smooth and soft throughout the day.')
+["ask_question: The classic from 1935, Jean Nate's silkening body powder will "
+ 'leave you feel silky smooth and soft throughout the day.',
+ "ask_question: A classic from 1935, Jean Nate silkening body powder won't "
+ 'leave you feeling silky smooth and soft throughout the day.',
+ '']
+
